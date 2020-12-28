@@ -5,9 +5,9 @@
 ```javascript
 import { shorten } from 'node-cleanuri';
 
-async main() {
-    short_url = await shorten("https://cstayyab.com");
-    console.log(short_url);
+let main = async () => {
+    let short_url = await shorten(new URL("https://cstayyab.com"));
+    console.log(short_url.toString());
 }
 
 main();
