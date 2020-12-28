@@ -1,0 +1,14 @@
+{
+  "name": "node-cleanuri",
+  "version": "1.0.0",
+  "description": "API Wrapper for CleanURI.com",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublish": "tsc"
+  },
+  "keywords": ["short", "shorten", "url", "shortner"],
+  "author": "Muhammad Tayyab Sheikh <cstayyab@gmail.com> (https://cstayyab.com)",
+  "license": "MIT"
+}
