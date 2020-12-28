@@ -12,3 +12,6 @@ let main = async () => {
 
 main();
 ```
+
+### Output
+> `https://cleanuri.com/jJW0jm`
