@@ -1,8 +1,5 @@
 # Changelog
 
-## 1.0.2
-- Added .npmrc for publishing package to GitHub Packages
-
 ## 1.0.1
 - Updated Example Code and Output
 
